@@ -2,5 +2,5 @@
 'Introduction': ['shift'],
 'Flipping About': ['flip'],
 'Tapping the System': ['tap'],
-'Three's Key': ['shift', 'flip', 'tap']
+"Three's Key": ['shift', 'flip', 'tap']
 }
