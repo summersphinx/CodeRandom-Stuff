@@ -1,0 +1,7 @@
+{
+'theme': 'DarkGrey14',
+'sfx volume': 1.0,
+'bgm volume': 1.0,
+'sfx muted': False,
+'bgm muted': False
+}
