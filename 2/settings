@@ -3,5 +3,6 @@
 'sfx volume': 1.0,
 'bgm volume': 1.0,
 'sfx muted': False,
-'bgm muted': False
+'bgm muted': False,
+'songs': ['A Darker Kind Of Grid.mp3', 'Intro.mp3', 'Loading.mp3']
 }
