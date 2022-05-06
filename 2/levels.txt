@@ -2,5 +2,9 @@
 'Introduction': ['shift'],
 'Flipping About': ['flip'],
 'Tapping the System': ['tap'],
-"Three's Key": ['shift', 'flip', 'tap']
+"Three's Key": ['shift', 'flip', 'tap'],
+"Getting Dizzy": ['shift', 'shift', 'shift'],
+"Master Key": ['key'],
+"Turn up the Base": ['base'],
+"Getting to Work": ['flip', 'autokey']
 }
