@@ -1,0 +1,13 @@
+{
+'Introduction': ['shift'],
+'Flipping About': ['flip'],
+'Tapping the System': ['tap'],
+"Three's Key": ['shift', 'flip', 'tap'],
+"Getting Dizzy": ['shift', 'shift', 'shift'],
+"Master Key": ['key'],
+"Turn up the Base": ['base'],
+"Getting to Work": ['flip', 'autokey'],
+"Hold the Fort": ['fort'],
+"Shift the Flipping Fort": ['fort', 'shift'],
+"Lockpick the Fort": ['fort', 'autokey']
+}
